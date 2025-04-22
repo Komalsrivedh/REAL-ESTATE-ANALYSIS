@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0197b8bb-c0fb-4fb7-b336-78c3b6a1ac6c)
+
 # REAL-ESTATE-ANALYSIS
 project is on REAL ESTATE ANALYSIS on real estate data from Taiwan, more specifically around Taipei City.
 The dataset comprises 414 records of real estate transactions, capturing key features that influence property prices. 
@@ -6,3 +8,4 @@ The dataset details the age of the house, distance to the nearest MRT station, a
 Additionally, each record includes the geographic coordinates (latitude and longitude) of the property, enabling spatial analysis and mapping. 
 The primary variable of interest is the house price per unit area, which serves as the target for predictive modeling. 
 With complete data and no missing values, this dataset is well-suited for exploring trends in urban real estate, building regression models to estimate housing prices, and assessing how location-based factors impact property value.
+
