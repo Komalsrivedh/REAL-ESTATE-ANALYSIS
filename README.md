@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0197b8bb-c0fb-4fb7-b336-78c3b6a1ac6c)
+![image](https://github.com/user-attachments/assets/642471ab-ea11-4e43-87d4-ee8a4b829342)
+
 
 # REAL-ESTATE-ANALYSIS
 project is on REAL ESTATE ANALYSIS on real estate data from Taiwan, more specifically around Taipei City.
